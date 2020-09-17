@@ -27,7 +27,7 @@
 | 文章 | 影片 | 簡報 | 程式 |
 | ------------- | ------------- | ------------- | ------------- |
 | [[Day-1] 目標介紹](https://ithelp.ithome.com.tw/articles/10236641)  | [Video](https://www.youtube.com/watch?v=C9mvGMtrPXo&list=PLXSkku8eiD-iFRBr11rV83579hing3gMU)  | [PDF](./1.目標介紹/1.目標介紹.pdf)  | -  |
-| [[Day-2] 認識AI](https://ithelp.ithome.com.tw/articles/10238546)  | [Video](https://img.youtube.com/vi/zt7ZoPVrZHQ/0.jpg)](https://www.youtube.com/watch?v=zt7ZoPVrZHQ)  | [PDF](./2.認識AI/2.認識AI.pdf)  | -  |
+| [[Day-2] 認識AI](https://ithelp.ithome.com.tw/articles/10238546)  | [Video](https://www.youtube.com/watch?v=zt7ZoPVrZHQ)  | [PDF](./2.認識AI/2.認識AI.pdf)  | -  |
 
 
 ## 關於作者
