@@ -29,6 +29,7 @@
 | [[Day-1] 目標介紹](https://ithelp.ithome.com.tw/articles/10236641)  | [Video](https://www.youtube.com/watch?v=J0VOaMUibuk&list=PLXSkku8eiD-iFRBr11rV83579hing3gMU&index=1)  | [PDF](./1.目標介紹/1.目標介紹.pdf)  | -  |
 | [[Day-2] 認識AI](https://ithelp.ithome.com.tw/articles/10238546)  | [Video](https://www.youtube.com/watch?v=J0VOaMUibuk&list=PLXSkku8eiD-iFRBr11rV83579hing3gMU&index=2)  | [PDF](./2.認識AI/2.認識AI.pdf)  | -  |
 | [[Day-3] 機器學習大補帖](https://ithelp.ithome.com.tw/articles/10239349)  | [Video](https://www.youtube.com/watch?v=J0VOaMUibuk&list=PLXSkku8eiD-iFRBr11rV83579hing3gMU&index=3)  | [PDF](./3.機器學習大補帖/3.機器學習大補帖.pdf)  | -  |
+| [[Day-4] 資料視覺化]()  | [Video](ttps://www.youtube.com/watch?v=J0VOaMUibuk&list=PLXSkku8eiD-iFRBr11rV83579hing3gMU&index=4)  | [PDF](./4.資料視覺化/4.資料視覺化.pdf)  | [Code](https://drive.google.com/file/d/1RPx6O-GCYgAdojm9j_XXoR-xm5d5GEte/view?usp=sharing)  |
 
 
 ## 關於作者
