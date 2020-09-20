@@ -1,4 +1,5 @@
 
+
 # 資料清理&前處理
 ## 今日學習目標
 - 資料如何清理
@@ -64,7 +65,7 @@ scaler = RobustScaler().fit(X)
 X_scaled = scaler.transform(X)
 ```
 
-![]()
+![](https://i.imgur.com/jTS0y01.png)
 
 
 
