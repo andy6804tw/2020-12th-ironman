@@ -1,3 +1,5 @@
+[![Yes](https://img.youtube.com/vi/C9mvGMtrPXo/0.jpg)](https://www.youtube.com/watch?v=C9mvGMtrPXo)
+
 ![](https://i.imgur.com/tXye8SC.jpg)
 
 ## 前言

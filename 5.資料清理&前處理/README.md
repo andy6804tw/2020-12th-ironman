@@ -1,4 +1,4 @@
-
+[![Yes](https://img.youtube.com/vi/P42GqxCXkY8/0.jpg)](https://www.youtube.com/watch?v=P42GqxCXkY8)
 
 # 資料清理&前處理
 ## 今日學習目標

@@ -1,3 +1,4 @@
+[![Yes](https://img.youtube.com/vi/tATr84j1jqA/0.jpg)](https://www.youtube.com/watch?v=tATr84j1jqA)
 
 # 資料視覺化
 ## 今日學習目標

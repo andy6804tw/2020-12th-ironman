@@ -1,3 +1,5 @@
+[![Yes](https://img.youtube.com/vi/J0VOaMUibuk/0.jpg)](https://www.youtube.com/watch?v=J0VOaMUibuk)
+
 # 機器學習大補帖
 ## 今日學習目標
 - 了解機器學習是什麼
