@@ -29,8 +29,8 @@
 | [[Day-1] 目標介紹](https://ithelp.ithome.com.tw/articles/10236641)  | [Video](https://www.youtube.com/watch?v=C9mvGMtrPXo&list=PLXSkku8eiD-iFRBr11rV83579hing3gMU&index=1)  | [PDF](./1.目標介紹/1.目標介紹.pdf)  | -  |
 | [[Day-2] 認識AI](https://ithelp.ithome.com.tw/articles/10238546)  | [Video](https://www.youtube.com/watch?v=zt7ZoPVrZHQ&list=PLXSkku8eiD-iFRBr11rV83579hing3gMU&index=2)  | [PDF](./2.認識AI/2.認識AI.pdf)  | -  |
 | [[Day-3] 機器學習大補帖](https://ithelp.ithome.com.tw/articles/10239349)  | [Video](https://www.youtube.com/watch?v=J0VOaMUibuk&list=PLXSkku8eiD-iFRBr11rV83579hing3gMU&index=3)  | [PDF](./3.機器學習大補帖/3.機器學習大補帖.pdf)  | -  |
-| [[Day-4] 資料視覺化](https://ithelp.ithome.com.tw/articles/10239997)  | [Video](https://www.youtube.com/watch?v=tATr84j1jqA&list=PLXSkku8eiD-iFRBr11rV83579hing3gMU&index=4)  | [PDF](./4.資料視覺化/4.資料視覺化.pdf)  | [Code](https://drive.google.com/file/d/1RPx6O-GCYgAdojm9j_XXoR-xm5d5GEte/view?usp=sharing)  |
-| [[Day-5] 資料清理&前處理]()  | [Video](https://www.youtube.com/watch?v=P42GqxCXkY8&list=PLXSkku8eiD-iFRBr11rV83579hing3gMU&index=5)  | [PDF](./5.資料清理&前處理/5.資料清理&前處理.pdf)  | [Code](https://drive.google.com/file/d/1TJdFdegwPQGjUcCh6jI4ym9iy6eWNTKo/view?usp=sharing)  |
+| [[Day-4] 資料視覺化](https://ithelp.ithome.com.tw/articles/10239997)  | [Video](https://www.youtube.com/watch?v=tATr84j1jqA&list=PLXSkku8eiD-iFRBr11rV83579hing3gMU&index=4)  | [PDF](./4.資料視覺化/4.資料視覺化.pdf)  | [Code](https://drive.google.com/file/d/1a7FLVBqO8rFh6PBErmpYVdBAvIuGNw8s/view?usp=sharing)  |
+| [[Day-5] 資料清理&前處理]()  | [Video](https://www.youtube.com/watch?v=P42GqxCXkY8&list=PLXSkku8eiD-iFRBr11rV83579hing3gMU&index=5)  | [PDF](./5.資料清理&前處理/5.資料清理&前處理.pdf)  | [Code](https://drive.google.com/file/d/1YSZ9p-we3PaMFIuFmmjctGioEG8klqaB/view?usp=sharing)  |
 
 
 ## 關於作者
