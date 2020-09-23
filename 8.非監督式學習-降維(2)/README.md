@@ -1,4 +1,5 @@
 # 非監督式學習-降維(2)
+[![Yes](https://img.youtube.com/vi/OU03MZuLIts/0.jpg)](https://www.youtube.com/watch?v=OU03MZuLIts)
 
 ## 今日學習目標
 - 實際撰寫兩種不同降維方法
