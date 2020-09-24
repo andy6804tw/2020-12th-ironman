@@ -1,5 +1,5 @@
 # Linear Regression
-
+[![Yes](https://img.youtube.com/vi/L0X1ppgWwAk/0.jpg)](https://www.youtube.com/watch?v=L0X1ppgWwAk)
 
 ## 今日學習目標
 - 認識線性回歸
