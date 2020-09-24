@@ -33,7 +33,8 @@
 | [[Day 5] 資料清理&前處理](https://ithelp.ithome.com.tw/articles/10240494)  | [Video](https://www.youtube.com/watch?v=P42GqxCXkY8&list=PLXSkku8eiD-iFRBr11rV83579hing3gMU&index=5)  | [PDF](./5.資料清理&前處理/5.資料清理&前處理.pdf)  | [Code](https://drive.google.com/file/d/1YSZ9p-we3PaMFIuFmmjctGioEG8klqaB/view?usp=sharing)  |
 | [[Day 6] 非監督式學習k-means分群](https://ithelp.ithome.com.tw/articles/10241427)  | [Video](https://www.youtube.com/watch?v=AYGEgkDZCc8&list=PLXSkku8eiD-iFRBr11rV83579hing3gMU&index=6)  | [PDF](./6.非監督式學習k-means分群/6.非監督式學習k-means分群.pdf)  | [Code](https://drive.google.com/file/d/1EsvQ1Ahoyz_ZhBkeu2oTPyYj-16E5YRj/view?usp=sharing) |
 | [[Day 7] 非監督式學習-降維(1)](https://ithelp.ithome.com.tw/articles/10242100)  | [Video](https://www.youtube.com/watch?v=fwPnjnjywqg&list=PLXSkku8eiD-iFRBr11rV83579hing3gMU&index=7)  | [PDF](./7.非監督式學習-降維(1)/7.非監督式學習-降維(1).pdf)  | - |
-| [[Day 8] 非監督式學習-降維(2)](https://ithelp.ithome.com.tw/articles/10242100)  | [Video](https://www.youtube.com/watch?v=OU03MZuLIts)  | [PDF](./8.非監督式學習-降維(2)/8.非監督式學習-降維(2).pdf)  | [Code](https://drive.google.com/file/d/1etJtv451dZbq-cb9Ef0K1HiyulJ_QwrI/view?usp=sharing) |
+| [[Day 8] 非監督式學習-降維(2)](https://ithelp.ithome.com.tw/articles/10242578)  | [Video](https://www.youtube.com/watch?v=OU03MZuLIts&list=PLXSkku8eiD-iFRBr11rV83579hing3gMU&index=8)  | [PDF](./8.非監督式學習-降維(2)/8.非監督式學習-降維(2).pdf)  | [Code](https://drive.google.com/file/d/1etJtv451dZbq-cb9Ef0K1HiyulJ_QwrI/view?usp=sharing) |
+| [[Day 9] Linear-Regression]()  | [Video](https://www.youtube.com/watch?v=L0X1ppgWwAk&list=PLXSkku8eiD-iFRBr11rV83579hing3gMU&index=9)  | [PDF](./9.Linear-Regression/9.Linear-Regression.pdf)  | [Code](https://drive.google.com/file/d/1wyCSCs2mLGtJc8Jay60dY6a9wYDGP1_A/view?usp=sharing) |
 
 
 ## 關於作者
