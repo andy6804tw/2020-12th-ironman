@@ -1,4 +1,5 @@
 # Logistic regression
+[![Yes](https://img.youtube.com/vi/alVNcGNTAc8/0.jpg)](https://www.youtube.com/watch?v=alVNcGNTAc8)
 
 ## 今日學習目標
 - 認識邏輯回歸

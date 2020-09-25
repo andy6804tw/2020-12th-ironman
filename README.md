@@ -35,6 +35,7 @@
 | [[Day 7] 非監督式學習-降維(1)](https://ithelp.ithome.com.tw/articles/10242100)  | [Video](https://www.youtube.com/watch?v=fwPnjnjywqg&list=PLXSkku8eiD-iFRBr11rV83579hing3gMU&index=7)  | [PDF](./7.非監督式學習-降維(1)/7.非監督式學習-降維(1).pdf)  | - |
 | [[Day 8] 非監督式學習-降維(2)](https://ithelp.ithome.com.tw/articles/10242578)  | [Video](https://www.youtube.com/watch?v=OU03MZuLIts&list=PLXSkku8eiD-iFRBr11rV83579hing3gMU&index=8)  | [PDF](./8.非監督式學習-降維(2)/8.非監督式學習-降維(2).pdf)  | [Code](https://drive.google.com/file/d/1etJtv451dZbq-cb9Ef0K1HiyulJ_QwrI/view?usp=sharing) |
 | [[Day 9] Linear-Regression](https://ithelp.ithome.com.tw/articles/10243284)  | [Video](https://www.youtube.com/watch?v=L0X1ppgWwAk&list=PLXSkku8eiD-iFRBr11rV83579hing3gMU&index=9)  | [PDF](./9.Linear-Regression/9.Linear-Regression.pdf)  | [Code](https://drive.google.com/file/d/1wyCSCs2mLGtJc8Jay60dY6a9wYDGP1_A/view?usp=sharing) |
+| [[Day 10] Logistic regression]()  | [Video](https://www.youtube.com/watch?v=alVNcGNTAc8)  | [PDF](./10.Logistic-regression/10.Logistic-regression.pdf)  | [Code](https://drive.google.com/file/d/1o61PNbN31hviDD2WWLoD0L1rXhd-MttC/view?usp=sharing) |
 
 
 ## 關於作者
