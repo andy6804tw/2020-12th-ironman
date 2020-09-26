@@ -7,6 +7,8 @@
 - 實作 KNN 分類器
     - 觀察不同 K 值會對分類結果造成什麼影響
 
+![](https://i.imgur.com/aI2eJ2X.png)
+
 KNN 的全名 K Nearest Neighbor 是屬於機器學習中的Supervised learning其中一種算法
  ，顧名思義就是 k 個最接近你的`鄰居`。分類的標準是由鄰居「多數表決」決定的。在 sklearn 中 KNN 可以用作分類或迴歸的模型。
 
