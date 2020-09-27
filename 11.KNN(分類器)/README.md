@@ -1,4 +1,4 @@
-# KNN(分類器)
+# KNN (分類器)
 [![Yes](https://img.youtube.com/vi/npfJiromN5Q/0.jpg)](https://www.youtube.com/watch?v=npfJiromN5Q)
 
 ## 今日學習目標
