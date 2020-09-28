@@ -1,4 +1,5 @@
 # SVM (分類器)
+[![Yes](https://img.youtube.com/vi/wdeYo3fsT5U/0.jpg)](https://www.youtube.com/watch?v=wdeYo3fsT5U)
 
 ## 今日學習目標
 - 了解 SVM 分類器
