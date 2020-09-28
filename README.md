@@ -37,7 +37,8 @@
 | [[Day 9] Linear regression](https://ithelp.ithome.com.tw/articles/10243284)  | [Video](https://www.youtube.com/watch?v=L0X1ppgWwAk&list=PLXSkku8eiD-iFRBr11rV83579hing3gMU&index=9)  | [PDF](./9.Linear-Regression/9.Linear-Regression.pdf)  | [Code](https://drive.google.com/file/d/1wyCSCs2mLGtJc8Jay60dY6a9wYDGP1_A/view?usp=sharing) |
 | [[Day 10] Logistic regression](https://ithelp.ithome.com.tw/articles/10243841)  | [Video](https://www.youtube.com/watch?v=alVNcGNTAc8)  | [PDF](./10.Logistic-regression/10.Logistic-regression.pdf)  | [Code](https://drive.google.com/file/d/1o61PNbN31hviDD2WWLoD0L1rXhd-MttC/view?usp=sharing) |
 | [[Day 11] KNN (分類器)](https://ithelp.ithome.com.tw/articles/10244552)  | [Video](https://www.youtube.com/watch?v=npfJiromN5Q&list=PLXSkku8eiD-iFRBr11rV83579hing3gMU&index=11)  | [PDF](./11.KNN(分類器)/11.KNN(分類器).pdf)  | [Code](https://drive.google.com/file/d/10DaQ_nutd0rR_8-eNJ1bDsXsnKeunc74/view?usp=sharing) |
-| [[Day 12] KNN (迴歸器)]()  | [Video](https://www.youtube.com/watch?v=ZQC_gYiOzHI&list=PLXSkku8eiD-iFRBr11rV83579hing3gMU&index=12)  | [PDF](./12.KNN(迴歸器)/12.KNN(迴歸器).pdf)  | [Code](https://drive.google.com/file/d/1EiTI3Nnpz1Sw8svyJDNJa0YCwvZKd9ax/view?usp=sharing) |
+| [[Day 12] KNN (迴歸器)](https://ithelp.ithome.com.tw/articles/10245039)  | [Video](https://www.youtube.com/watch?v=ZQC_gYiOzHI&list=PLXSkku8eiD-iFRBr11rV83579hing3gMU&index=12)  | [PDF](./12.KNN(迴歸器)/12.KNN(迴歸器).pdf)  | [Code](https://drive.google.com/file/d/1EiTI3Nnpz1Sw8svyJDNJa0YCwvZKd9ax/view?usp=sharing) |
+| [[Day 13] SVM (分類器)]()  | [Video]()  | [PDF](./13.SVM(分類器)/13.SVM(分類器).pdf)  | [Code](https://drive.google.com/file/d/1pFCZBFhAwHJ9GFrRzPd3cZC3v-lLLkZh/view?usp=sharing) |
 
 
 ## 關於作者
