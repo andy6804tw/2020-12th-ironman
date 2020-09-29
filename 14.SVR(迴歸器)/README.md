@@ -1,5 +1,5 @@
 # SVM (迴歸器)
-
+[![Yes](https://img.youtube.com/vi/SllTSgZPdWQ/0.jpg)](https://www.youtube.com/watch?v=SllTSgZPdWQ)
 
 ## 今日學習目標
 - SVR 迴歸
