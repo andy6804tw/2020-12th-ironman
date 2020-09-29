@@ -39,7 +39,8 @@
 | [[Day 11] KNN (分類器)](https://ithelp.ithome.com.tw/articles/10244552)  | [Video](https://www.youtube.com/watch?v=npfJiromN5Q&list=PLXSkku8eiD-iFRBr11rV83579hing3gMU&index=11)  | [PDF](./11.KNN(分類器)/11.KNN(分類器).pdf)  | [Code](https://drive.google.com/file/d/10DaQ_nutd0rR_8-eNJ1bDsXsnKeunc74/view?usp=sharing) |
 | [[Day 12] KNN (迴歸器)](https://ithelp.ithome.com.tw/articles/10245039)  | [Video](https://www.youtube.com/watch?v=ZQC_gYiOzHI&list=PLXSkku8eiD-iFRBr11rV83579hing3gMU&index=12)  | [PDF](./12.KNN(迴歸器)/12.KNN(迴歸器).pdf)  | [Code](https://drive.google.com/file/d/1EiTI3Nnpz1Sw8svyJDNJa0YCwvZKd9ax/view?usp=sharing) |
 | [[Day 13] SVM (分類器)](https://ithelp.ithome.com.tw/articles/10245575)  | [Video](https://www.youtube.com/watch?v=wdeYo3fsT5U&list=PLXSkku8eiD-iFRBr11rV83579hing3gMU&index=13)  | [PDF](./13.SVM(分類器)/13.SVM(分類器).pdf)  | [Code](https://drive.google.com/file/d/1pFCZBFhAwHJ9GFrRzPd3cZC3v-lLLkZh/view?usp=sharing) |
-| [[Day 14] SVM (迴歸器)]()  | [Video](https://www.youtube.com/watch?v=SllTSgZPdWQ&list=PLXSkku8eiD-iFRBr11rV83579hing3gMU&index=14)  | [PDF](./13.SVM(分類器)/13.SVM(分類器).pdf)  | [Code](https://drive.google.com/file/d/1pFCZBFhAwHJ9GFrRzPd3cZC3v-lLLkZh/view?usp=sharing) |
+| [[Day 14] SVM (迴歸器)]()  | [Video](https://www.youtube.com/watch?v=SllTSgZPdWQ&list=PLXSkku8eiD-iFRBr11rV83579hing3gMU&index=14)  | [PDF](./13.SVM(分類器)/13.SVM(分類器).pdf)  | [Code](https://drive.google.com/file/d/12FTvHmbyfyqulHsKMVUPHwZnVRTR6opm/view?usp=sharing) |
+
 
 ## 關於作者
 現今台灣人工智慧學校AI工程師，熱衷網頁前後端整合發與AI演算法開發。希望藉由鐵人賽，將所學貢獻出來提升臺灣在AI領域的資源。
