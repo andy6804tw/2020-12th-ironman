@@ -1,4 +1,6 @@
 # 決策樹 (分類器)
+[![Yes](https://img.youtube.com/vi/1epy1EKVDkc/0.jpg)](https://www.youtube.com/watch?v=1epy1EKVDkc)
+
 
 ## 今日學習目標
 - 決策樹演算法介紹
