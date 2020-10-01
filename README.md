@@ -41,7 +41,7 @@
 | [[Day 13] SVM (分類器)](https://ithelp.ithome.com.tw/articles/10245575)  | [Video](https://www.youtube.com/watch?v=wdeYo3fsT5U&list=PLXSkku8eiD-iFRBr11rV83579hing3gMU&index=13)  | [PDF](./13.SVM(分類器)/13.SVM(分類器).pdf)  | [Code](https://drive.google.com/file/d/1pFCZBFhAwHJ9GFrRzPd3cZC3v-lLLkZh/view?usp=sharing) |
 | [[Day 14] SVR (迴歸器)](https://ithelp.ithome.com.tw/articles/10246312)  | [Video](https://www.youtube.com/watch?v=SllTSgZPdWQ&list=PLXSkku8eiD-iFRBr11rV83579hing3gMU&index=14)  | [PDF](./13.SVM(分類器)/13.SVM(分類器).pdf)  | [Code](https://drive.google.com/file/d/12FTvHmbyfyqulHsKMVUPHwZnVRTR6opm/view?usp=sharing) |
 | [[Day 15] 決策樹 (分類器)](https://ithelp.ithome.com.tw/articles/10246897)  | [Video](https://www.youtube.com/watch?v=1epy1EKVDkc&list=PLXSkku8eiD-iFRBr11rV83579hing3gMU&index=15)  | [PDF](./15.決策樹(分類器)/15.決策樹(分類器).pdf)  | [Code](https://drive.google.com/file/d/11_UtFDdLM0VN4wQvvvzPxH4mNHg9TwbQ/view?usp=sharing) |
-| [[Day 16] 決策樹 (迴歸器)]()  | [Video](https://www.youtube.com/watch?v=MeAUgKOhKhU&list=PLXSkku8eiD-iFRBr11rV83579hing3gMU&index=16)  | [PDF](./16.決策樹(迴歸器)/16.決策樹(迴歸器).pdf)  | [Code]() |
+| [[Day 16] 決策樹 (迴歸器)]()  | [Video](https://www.youtube.com/watch?v=MeAUgKOhKhU&list=PLXSkku8eiD-iFRBr11rV83579hing3gMU&index=16)  | [PDF](./16.決策樹(迴歸器)/16.決策樹(迴歸器).pdf)  | [Code](https://drive.google.com/file/d/1nugfCCaIsKT7CkDMcclQtgdQEZpQ_5Ua/view?usp=sharing) |
 
 ## 關於作者
 現今台灣人工智慧學校AI工程師，熱衷網頁前後端整合發與AI演算法開發。希望藉由鐵人賽，將所學貢獻出來提升臺灣在AI領域的資源。
