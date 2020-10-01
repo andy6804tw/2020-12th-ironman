@@ -5,7 +5,7 @@
 - KNN 迴歸
     - 學習 KNN 方法如何處理連續性輸出
 - 實作 KNN 迴歸器 
-    - 查看KNN方法在簡單線性回歸和非線性回歸表現
+    - 查看KNN方法在簡單線性迴歸和非線性迴歸表現
 
 ![](https://i.imgur.com/LRFsybz.png)
 
