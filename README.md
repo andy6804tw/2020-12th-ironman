@@ -42,7 +42,7 @@
 | [[Day 14] SVR (迴歸器)](https://ithelp.ithome.com.tw/articles/10246312)  | [Video](https://www.youtube.com/watch?v=SllTSgZPdWQ&list=PLXSkku8eiD-iFRBr11rV83579hing3gMU&index=14)  | [PDF](./14.SVR(迴歸器)/14.SVR(迴歸器).pdf)  | [Code](https://drive.google.com/file/d/12FTvHmbyfyqulHsKMVUPHwZnVRTR6opm/view?usp=sharing) |
 | [[Day 15] 決策樹 (分類器)](https://ithelp.ithome.com.tw/articles/10246897)  | [Video](https://www.youtube.com/watch?v=1epy1EKVDkc&list=PLXSkku8eiD-iFRBr11rV83579hing3gMU&index=15)  | [PDF](./15.決策樹(分類器)/15.決策樹(分類器).pdf)  | [Code](https://drive.google.com/file/d/11_UtFDdLM0VN4wQvvvzPxH4mNHg9TwbQ/view?usp=sharing) |
 | [[Day 16] 決策樹 (迴歸器)](https://ithelp.ithome.com.tw/articles/10247440)  | [Video](https://www.youtube.com/watch?v=MeAUgKOhKhU&list=PLXSkku8eiD-iFRBr11rV83579hing3gMU&index=16)  | [PDF](./16.決策樹(迴歸器)/16.決策樹(迴歸器).pdf)  | [Code](https://drive.google.com/file/d/1nugfCCaIsKT7CkDMcclQtgdQEZpQ_5Ua/view?usp=sharing) |
-| [[Day 17] 集成式學習]()  | [Video](https://www.youtube.com/watch?v=U63xsNZrPWg)  | [PDF](./17.集成式學習/17.集成式學習.pdf)  | - |
+| [[Day 17] 集成式學習](https://ithelp.ithome.com.tw/articles/10247936)  | [Video](https://www.youtube.com/watch?v=U63xsNZrPWg)  | [PDF](./17.集成式學習/17.集成式學習.pdf)  | - |
 
 
 ## 關於作者
