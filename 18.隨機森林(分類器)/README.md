@@ -1,4 +1,5 @@
 # 隨機森林 (分類器)
+[![Yes](https://img.youtube.com/vi/Ix0UhijD4Ks/0.jpg)](https://www.youtube.com/watch?v=Ix0UhijD4Ks)
 
 
 ## 今日學習目標
