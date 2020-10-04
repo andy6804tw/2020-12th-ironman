@@ -44,7 +44,7 @@
 | [[Day 16] 決策樹 (迴歸器)](https://ithelp.ithome.com.tw/articles/10247440)  | [Video](https://www.youtube.com/watch?v=MeAUgKOhKhU&list=PLXSkku8eiD-iFRBr11rV83579hing3gMU&index=16)  | [PDF](./16.決策樹(迴歸器)/16.決策樹(迴歸器).pdf)  | [Code](https://drive.google.com/file/d/1nugfCCaIsKT7CkDMcclQtgdQEZpQ_5Ua/view?usp=sharing) |
 | [[Day 17] 集成式學習](https://ithelp.ithome.com.tw/articles/10247936)  | [Video](https://www.youtube.com/watch?v=U63xsNZrPWg&list=PLXSkku8eiD-iFRBr11rV83579hing3gMU&index=17)  | [PDF](./17.集成式學習/17.集成式學習.pdf)  | - |
 | [[Day 18] 隨機森林 (分類器)](https://ithelp.ithome.com.tw/articles/10248400)  | [Video](https://www.youtube.com/watch?v=Ix0UhijD4Ks&list=PLXSkku8eiD-iFRBr11rV83579hing3gMU&index=18)  | [PDF](./18.隨機森林(分類器)/18.隨機森林(分類器).pdf)  | [Code](https://drive.google.com/file/d/1DExLEjtz0lyNsSmy1jzpn0KBfcQhsb-5/view?usp=sharing) |
-| [[Day 19] 隨機森林(迴歸器)]()  | [Video]())  | [PDF](./19.隨機森林(迴歸器)/19.隨機森林(迴歸器).pdf)  | [Code]() |
+| [[Day 19] 隨機森林(迴歸器)]()  | [Video](https://www.youtube.com/watch?v=6sYMlwl2SWg&list=PLXSkku8eiD-iFRBr11rV83579hing3gMU&index=19))  | [PDF](./19.隨機森林(迴歸器)/19.隨機森林(迴歸器).pdf)  | [Code](https://drive.google.com/file/d/1xNuKnBQn1CuDvHN9yqVuyDoH3Nrz-wCa/view?usp=sharing) |
 
 
 ## 關於作者

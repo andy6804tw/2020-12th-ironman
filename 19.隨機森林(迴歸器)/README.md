@@ -1,4 +1,5 @@
 # 隨機森林 (迴歸器)
+[![Yes](https://img.youtube.com/vi/6sYMlwl2SWg/0.jpg)](https://www.youtube.com/watch?v=6sYMlwl2SWg)
 
 ## 今日學習目標
 - 迴歸隨機森林
