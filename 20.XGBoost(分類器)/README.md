@@ -1,4 +1,4 @@
-# 隨機森林 (分類器)
+# XGBoost (分類器)
 [![Yes](https://img.youtube.com/vi/kPvw-b6V-G4/0.jpg)](https://www.youtube.com/watch?v=kPvw-b6V-G4)
 
 ## 今日學習目標
@@ -9,7 +9,7 @@
 - 實作 XGBoost 分類器 
     - 比較 Bagging 與 Boosting 兩者差別
 
-XGBoost 是由華盛頓大學博士班學生陳天奇所開發，是目前 Kaggle 競賽中最常見到的算法。
+XGBoost 是由華盛頓大學博士生陳天奇所開發，是目前 Kaggle 競賽中最常見到的算法。
 
 ![](https://i.imgur.com/JpINBDL.png)
 
