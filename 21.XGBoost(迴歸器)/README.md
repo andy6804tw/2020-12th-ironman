@@ -1,5 +1,6 @@
 # XGBoost (迴歸器)
 
+
 ## 今日學習目標
 - 了解 XGBoost Regression
     - Boosting vs Decision tree & Bagging vs. Boosting
@@ -7,7 +8,7 @@
     - 查看 XGBoost 在簡單線性迴歸和非線性回歸表現
 
 
-XGBoost是boosting算法的其中一種，它除了可以做分類也能進行回歸連續性數值的預測，而且效果通常都不差。Boosting演算法的思想是將許多弱分類器集成在一起形成一個強分類器。
+XGBoost是boosting算法的其中一種，它除了可以做分類也能進行回歸連續性數值的預測，而且效果通常都不差。Boosting演算法的思想是將許多弱分類器集成在一起形成一個強分類器。
 
 ![](https://i.imgur.com/vkQPGKl.png)
 
