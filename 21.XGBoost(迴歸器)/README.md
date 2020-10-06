@@ -1,5 +1,5 @@
 # XGBoost (迴歸器)
-
+[![Yes](https://img.youtube.com/vi/xOQNBeB0Eqo/0.jpg)](https://www.youtube.com/watch?v=xOQNBeB0Eqo)
 
 ## 今日學習目標
 - 了解 XGBoost Regression
