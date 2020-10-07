@@ -1,4 +1,5 @@
 # Stacking
+[![Yes](https://img.youtube.com/vi/hO31PmZb53o/0.jpg)](https://www.youtube.com/watch?v=hO31PmZb53o)
 
 ## 今日學習目標
 - 了解 Stacking 方法
