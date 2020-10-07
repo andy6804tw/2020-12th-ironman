@@ -47,7 +47,7 @@
 | [[Day 19] 隨機森林 (迴歸器)](https://ithelp.ithome.com.tw/articles/10248777)  | [Video](https://www.youtube.com/watch?v=6sYMlwl2SWg&list=PLXSkku8eiD-iFRBr11rV83579hing3gMU&index=19)  | [PDF](./19.隨機森林(迴歸器)/19.隨機森林(迴歸器).pdf)  | [Code](https://drive.google.com/file/d/1xNuKnBQn1CuDvHN9yqVuyDoH3Nrz-wCa/view?usp=sharing) |
 | [[Day 20] XGBoost (分類器)]()  | [Video](https://www.youtube.com/watch?v=kPvw-b6V-G4&list=PLXSkku8eiD-iFRBr11rV83579hing3gMU&index=20)  | [PDF](./20.XGBoost(分類器)/20.XGBoost(分類器).pdf)  | [Code](https://drive.google.com/file/d/1QccYPBK55Gohf7jIU9_oJHkRzEP2OhJM/view?usp=sharing) |
 | [[Day 21] XGBoost (迴歸器)](https://ithelp.ithome.com.tw/articles/10249337)  | [Video](https://www.youtube.com/watch?v=xOQNBeB0Eqo&list=PLXSkku8eiD-iFRBr11rV83579hing3gMU&index=21)  | [PDF](./21.XGBoost(迴歸器)/21.XGBoost(迴歸器).pdf)  | [Code](https://drive.google.com/file/d/1gTLsk_pgsrLCnZJzgi0Ti9obNMpC7biR/view?usp=sharing) |
-| [[Day 22] Stacking]()  | [Video](https://www.youtube.com/watch?v=hO31PmZb53o&list=PLXSkku8eiD-iFRBr11rV83579hing3gMU&index=22)  | [PDF](./22.Stacking/22.Stacking.pdf)  | [Code]() |
+| [[Day 22] Stacking]()  | [Video](https://www.youtube.com/watch?v=hO31PmZb53o&list=PLXSkku8eiD-iFRBr11rV83579hing3gMU&index=22)  | [PDF](./22.Stacking/22.Stacking.pdf)  | [Code](https://drive.google.com/file/d/1y0v9DbDTNlfbzSETmv8LsBpiJGUQgfjc/view?usp=sharing) |
 
 ## 關於作者
 現今台灣人工智慧學校AI工程師，熱衷網頁前後端整合發與AI演算法開發。希望藉由鐵人賽，將所學貢獻出來提升臺灣在AI領域的資源。
