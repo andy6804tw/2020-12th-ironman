@@ -1,5 +1,5 @@
 # 免費雲端 Jupyter Notebook 資源
-
+[![Yes](https://img.youtube.com/vi/_1nkZ-IkuG0/0.jpg)](https://www.youtube.com/watch?v=_1nkZ-IkuG0)
 
 ## 今日學習目標
 - 挖掘免費雲端 Jupyter Notebook 資源 
