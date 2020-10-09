@@ -1,5 +1,5 @@
 # 儲存訓練好的模型
-
+[![Yes](https://img.youtube.com/vi/w2zMaPu1fbw/0.jpg)](https://www.youtube.com/watch?v=w2zMaPu1fbw)
 
 ## 今日學習目標
 - 使用 pickle + gzip 儲存模型
