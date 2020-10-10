@@ -1,5 +1,5 @@
 # 使用Python Flask架設API吧!
-
+[![Yes](https://img.youtube.com/vi/FUj88Q_L62k/0.jpg)](https://www.youtube.com/watch?v=FUj88Q_L62k)
 
 這系列的 AI 文章快進入尾聲了，因此打算利用剩下來時間講解應用端的部分。同時也趁這幾次連假規劃了一些教學，希望接下來的內容能幫助到大家～
 
