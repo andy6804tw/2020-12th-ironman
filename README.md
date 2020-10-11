@@ -51,7 +51,7 @@
 | [[Day 23] 免費雲端Jupyter Notebook資源]()  | [Video](https://www.youtube.com/watch?v=_1nkZ-IkuG0&list=PLXSkku8eiD-iFRBr11rV83579hing3gMU&index=23)  | [PDF](./23.免費雲端Jupyter-Notebook資源/23.免費雲端Jupyter-Notebook資源.pdf)  | [Code](https://drive.google.com/file/d/1fLv6zOiMVTI-JJeRRbhF_QfV_FCVAMb7/view?usp=sharing) |
 | [[Day 24] 儲存訓練好的模型](https://ithelp.ithome.com.tw/articles/10251172) | [Video](https://www.youtube.com/watch?v=w2zMaPu1fbw&list=PLXSkku8eiD-iFRBr11rV83579hing3gMU&index=24)  | [PDF](./24.儲存訓練好的模型/24.儲存訓練好的模型.pdf)  | [Code](https://drive.google.com/file/d/1pF_Fyb0yAh8JcGy8EBMI2ieF0DqfZyXN/view?usp=sharing) |
 | [[Day 25] 使用Python Flask架設API吧!](https://ithelp.ithome.com.tw/articles/10251579) | [Video](https://www.youtube.com/watch?v=FUj88Q_L62k&list=PLXSkku8eiD-iFRBr11rV83579hing3gMU&index=25)  | [PDF](./25.使用Python-Flask架設API吧!/25.使用Python-Flask架設API吧!.pdf)  | [Code](https://github.com/1010code/Flask-API-example-with-ML-model) |
-| [[Day 26] 使用Heroku部署機器學習API]() | [Video](https://www.youtube.com/watch?v=X2ncrARsB70&list=PLXSkku8eiD-iFRBr11rV83579hing3gMU&index=27)  | [PDF](./26.使用Heroku部署機器學習API/26.使用Heroku部署機器學習API.pdf)  | [Code](https://github.com/1010code/Flask-API-example-with-ML-model-heroku) |
+| [[Day 26] 使用Heroku部署機器學習API](https://ithelp.ithome.com.tw/articles/10252007) | [Video](https://www.youtube.com/watch?v=X2ncrARsB70&list=PLXSkku8eiD-iFRBr11rV83579hing3gMU&index=27)  | [PDF](./26.使用Heroku部署機器學習API/26.使用Heroku部署機器學習API.pdf)  | [Code](https://github.com/1010code/Flask-API-example-with-ML-model-heroku) |
 
 
 
