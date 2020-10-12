@@ -29,7 +29,7 @@
 邊教學使用 Google 瀏覽器開啟 SSH 進入虛擬機的方式，一方面也比較簡單，若你是長期使用的資深的玩家可以考慮利用金鑰的方式直接從本機電腦的終端機進行連線存取雲端伺服器的方式。
 
 ![](https://i.imgur.com/1Rl4haK.png)
-![](https://i.imgur.com/9IQ3DpR.png)
+![](https://i.imgur.com/h1WkjON.png)
 
 
 ### 安裝 Python
