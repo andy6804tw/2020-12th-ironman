@@ -1,9 +1,11 @@
 # 使用GCP部署機器學習API
+[![Yes](https://img.youtube.com/vi/3X2aWAy9xJw/0.jpg)](https://www.youtube.com/watch?v=3X2aWAy9xJw)
+
 此範例使用鳶尾花朵資料集進行 `XGBoost` 分類器模型訓練。將模型儲存起來，並使用 Flask 建置 API 介面提供輸入值預測。最後並部署到 Google Cloud Platform。
 
 ## 今日學習目標
 - 動手部署自己的機器學習 API 
-    - 使用 Heroku 免費雲端平台部署應用程式
+    - 使用 GCP 免費雲端平台部署應用程式
 
 ## GCP 設定
 ### 建立一個虛擬機器
