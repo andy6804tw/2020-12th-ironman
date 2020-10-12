@@ -9,6 +9,8 @@
 ### 建立一個虛擬機器
 每個Google帳號都有免費一年300美金額度的試用，啟用後首先一開始點選 Compute Enging 並新增建立 VM 執行個體。
 
+[點我](https://console.cloud.google.com/?hl=zh-TW)進入 GCP 控制台。
+
 ![](https://i.imgur.com/5BDeg41.png)
 
 新建一個虛擬機需要注意以下幾個事情：
