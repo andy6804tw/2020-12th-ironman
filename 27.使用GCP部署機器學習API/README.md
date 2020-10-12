@@ -69,4 +69,15 @@ pip3 install -r requirements.txt
 sudo python3 run.py
 ```
 
+## 補充
+大家在本機開發時執行 Python 程式應該都是使用 `python xxx.py` 的方式執行，但我們部署到雲端伺服器時如果使用此方法應該會發現當你關閉終端機時你的程式就會結束服務。因此在部署時候建議各位要使用 Gunicorn 將 API 背景執行。
+
+> 下面是我之前拍攝的 GCP 系列影片，可以給各位參考哦！
+
+- [[GCP教學-Python] #1 部署第一個Python Flask API程式](https://andy6804tw.github.io/2020/03/27/gcp-python-ep1/)
+- [[GCP教學-Python] #2 將臨時外部IP改為靜態IP位置](https://andy6804tw.github.io/2020/03/28/gcp-python-ep2/)
+- [[GCP教學-Python] #3 利用iptable轉發PORT號](https://andy6804tw.github.io/2020/03/29/gcp-python-ep3/)
+- [[GCP教學-Python] #4 建立防火牆規則](https://andy6804tw.github.io/2020/03/31/gcp-python-ep4/)
+- [[GCP教學-Python] #5 使用Gunicorn將API背景執行](https://andy6804tw.github.io/2020/04/10/gcp-gunicorn/)
+
 本系列教學簡報 PDF & Code 都可以從我的 [GitHub](https://github.com/andy6804tw/2020-12th-ironman) 取得！
