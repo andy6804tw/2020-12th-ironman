@@ -53,6 +53,7 @@
 | [[Day 25] 使用Python Flask架設API吧!](https://ithelp.ithome.com.tw/articles/10251579) | [Video](https://www.youtube.com/watch?v=FUj88Q_L62k&list=PLXSkku8eiD-iFRBr11rV83579hing3gMU&index=25)  | [PDF](./25.使用Python-Flask架設API吧!/25.使用Python-Flask架設API吧!.pdf)  | [Code](https://github.com/1010code/Flask-API-example-with-ML-model) |
 | [[Day 26] 使用Heroku部署機器學習API](https://ithelp.ithome.com.tw/articles/10252007) | [Video](https://www.youtube.com/watch?v=X2ncrARsB70&list=PLXSkku8eiD-iFRBr11rV83579hing3gMU&index=27)  | [PDF](./26.使用Heroku部署機器學習API/26.使用Heroku部署機器學習API.pdf)  | [Code](https://github.com/1010code/Flask-API-example-with-ML-model-heroku) |
 | [[Day 27] 使用GCP部署機器學習API](https://ithelp.ithome.com.tw/articles/10252383) | [Video](https://www.youtube.com/watch?v=3X2aWAy9xJw&list=PLXSkku8eiD-iFRBr11rV83579hing3gMU&index=27)  | [PDF](./27.使用GCP部署機器學習API/27.使用GCP部署機器學習API.pdf)  | [Code](https://github.com/1010code/Flask-API-example-with-ML-model-GCP) |
+| [[Day 28] API前後端串接]() | [Video]()  | [PDF](./28.API前後端串接/28.API前後端串接.pdf)  | [Code](https://github.com/1010code/website-API-example) |
 
 
 
