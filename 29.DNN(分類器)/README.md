@@ -1,4 +1,5 @@
 # DNN (分類器)
+[![Yes](https://img.youtube.com/vi/diCzrBXLxL0/0.jpg)](https://www.youtube.com/watch?v=diCzrBXLxL0)
 
 
 ## 今日學習目標
