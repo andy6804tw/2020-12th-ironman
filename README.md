@@ -54,7 +54,7 @@
 | [[Day 26] 使用Heroku部署機器學習API](https://ithelp.ithome.com.tw/articles/10252007) | [Video](https://www.youtube.com/watch?v=X2ncrARsB70&list=PLXSkku8eiD-iFRBr11rV83579hing3gMU&index=27)  | [PDF](./26.使用Heroku部署機器學習API/26.使用Heroku部署機器學習API.pdf)  | [Code](https://github.com/1010code/Flask-API-example-with-ML-model-heroku) |
 | [[Day 27] 使用GCP部署機器學習API](https://ithelp.ithome.com.tw/articles/10252383) | [Video](https://www.youtube.com/watch?v=3X2aWAy9xJw&list=PLXSkku8eiD-iFRBr11rV83579hing3gMU&index=27)  | [PDF](./27.使用GCP部署機器學習API/27.使用GCP部署機器學習API.pdf)  | [Code](https://github.com/1010code/Flask-API-example-with-ML-model-GCP) |
 | [[Day 28] API前後端串接](https://ithelp.ithome.com.tw/articles/10252798) | [Video](https://www.youtube.com/watch?v=BTG5Cm2sUaI&list=PLXSkku8eiD-iFRBr11rV83579hing3gMU&index=28)  | [PDF](./28.API前後端串接/28.API前後端串接.pdf)  | [Code](https://github.com/1010code/website-API-example) |
-| [[Day 29] DNN (分類器)]() | [Video]()  | [PDF](./29.DNN(分類器)/29.DNN(分類器).pdf)  | [Code]() |
+| [[Day 29] DNN (分類器)]() | [Video]()  | [PDF](./29.DNN(分類器)/29.DNN(分類器).pdf)  | [Code](https://drive.google.com/file/d/1o_t6GYUCyivrSNnQ8-FpRqzaXC0QGIiR/view?usp=sharing) |
 
 
 
