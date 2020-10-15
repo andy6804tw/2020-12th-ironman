@@ -1,5 +1,6 @@
 # 使用TensorFlow.js建置DNN手寫數字辨識分類器
-[![Yes](https://img.youtube.com/vi/SgXH2ydT1KU/0.jpg)](https://www.youtube.com/watch?v=SgXH2ydT1KU)
+[![Yes](https://img.youtube.com/vi/u17P_qWUIV4/0.jpg)](https://www.youtube.com/watch?v=u17P_qWUIV4)
+
 
 ## 今日學習目標
 - 將 TensorFlow DNN 模型打包儲存 

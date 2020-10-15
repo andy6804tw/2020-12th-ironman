@@ -55,7 +55,7 @@
 | [[Day 27] 使用GCP部署機器學習API](https://ithelp.ithome.com.tw/articles/10252383) | [Video](https://www.youtube.com/watch?v=3X2aWAy9xJw&list=PLXSkku8eiD-iFRBr11rV83579hing3gMU&index=27)  | [PDF](./27.使用GCP部署機器學習API/27.使用GCP部署機器學習API.pdf)  | [Code](https://github.com/1010code/Flask-API-example-with-ML-model-GCP) |
 | [[Day 28] API前後端串接](https://ithelp.ithome.com.tw/articles/10252798) | [Video](https://www.youtube.com/watch?v=BTG5Cm2sUaI&list=PLXSkku8eiD-iFRBr11rV83579hing3gMU&index=28)  | [PDF](./28.API前後端串接/28.API前後端串接.pdf)  | [Code](https://github.com/1010code/website-API-example) |
 | [[Day 29] DNN (分類器)](https://ithelp.ithome.com.tw/articles/10253192) | [Video](https://www.youtube.com/watch?v=diCzrBXLxL0&list=PLXSkku8eiD-iFRBr11rV83579hing3gMU&index=29)  | [PDF](./29.DNN(分類器)/29.DNN(分類器).pdf)  | [Code](https://drive.google.com/file/d/1o_t6GYUCyivrSNnQ8-FpRqzaXC0QGIiR/view?usp=sharing) |
-| [[Day 30] 使用TensorFlow.js建置DNN手寫數字辨識分類器](https://ithelp.ithome.com.tw/articles/10253490) | [Video](https://www.youtube.com/watch?v=SgXH2ydT1KU&list=PLXSkku8eiD-iFRBr11rV83579hing3gMU&index=30)  | [PDF](./30.使用TensorFlow.js建置DNN手寫數字辨識分類器/30.使用TensorFlow.js建置DNN手寫數字辨識分類器.pdf)  | [Code](https://github.com/1010code/digit-recognizer-tensorflowJS) |
+| [[Day 30] 使用TensorFlow.js建置DNN手寫數字辨識分類器](https://ithelp.ithome.com.tw/articles/10253490) | [Video](https://www.youtube.com/watch?v=u17P_qWUIV4&list=PLXSkku8eiD-iFRBr11rV83579hing3gMU&index=30)  | [PDF](./30.使用TensorFlow.js建置DNN手寫數字辨識分類器/30.使用TensorFlow.js建置DNN手寫數字辨識分類器.pdf)  | [Code](https://github.com/1010code/digit-recognizer-tensorflowJS) |
 
 
 
