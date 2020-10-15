@@ -9,4 +9,9 @@
 
 ![](https://i.imgur.com/oGW12bt.png)
 
+## Demo
+![](https://i.imgur.com/Hs5wFr1.png)
+
+[傳送門](https://1010code.github.io/digit-recognizer-tensorflowJS/index.html)
+
 本系列教學簡報 PDF & Code 都可以從我的 [GitHub](https://github.com/andy6804tw/2020-12th-ironman) 取得！
