@@ -1,10 +1,15 @@
 
 
-# 2021 更新公告
-Hi~大家好！好消息告訴大家。今年一樣參加了2021 iT幫鐵人賽 AI&Data 組，預計撰寫全民瘋AI系列2.0。在新的系列除了將原有影片內容轉成文章外還增加了一些模型訓練的基礎知識與觀念。有興趣朋友歡迎來iT幫支持與訂閱。
+# 📢 2021 更新公告
+Hi~大家好！好消息告訴大家。今年一樣參加了2021 iT幫鐵人賽 AI&Data 組，預計撰寫全民瘋AI系列2.0。在新的系列除了將原有影片內容轉成文章外還增加了一些模型訓練的基礎知識與觀念。有興趣朋友歡迎點選下面連結前來iT幫支持與訂閱。
 
-## [[2021 iThome 鐵人賽 全民瘋AI系列2.0]](https://ithelp.ithome.com.tw/users/20107247/ironman/4723)
-## [全民瘋AI系列2.0 GitHub](https://github.com/andy6804tw/2021-13th-ironman)
+
+### 傳送門 ⬇
+- [[2021 iThome 鐵人賽 全民瘋AI系列2.0]](https://ithelp.ithome.com.tw/users/20107247/ironman/4723)
+- [全民瘋AI系列2.0 GitHub](https://github.com/andy6804tw/2021-13th-ironman)
+
+> 目前這個 repo 是第12屆iT邦幫忙鐵人賽影片教學內容，若想同時觀看文章內容可以進入[全民瘋AI系列2.0](https://github.com/andy6804tw/2021-13th-ironman)。
+
 # 全民瘋AI系列
 第12屆iT邦幫忙鐵人賽
 ## 前言
