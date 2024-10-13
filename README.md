@@ -1,4 +1,4 @@
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fandy6804tw%2F2020-12th-ironman&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 # 📢 2021 更新公告
 Hi~大家好！好消息告訴大家。今年一樣參加了 2021 第13屆 iT幫鐵人賽 AI&Data 組，預計撰寫全民瘋AI系列2.0。在新的系列除了將原有影片內容轉成文章外還增加了一些模型訓練的基礎知識與觀念。有興趣朋友歡迎點選下面連結前來iT幫支持與訂閱。
